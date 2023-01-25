@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+table{
+    background:linear-gradient(180deg,orange,white,green);
+    color:blue;
+    font-size: 40px;
+    font-style: italic;
+
+}
